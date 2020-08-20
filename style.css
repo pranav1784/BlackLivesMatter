@@ -1,0 +1,61 @@
+.carousel-inner img {
+    width: 100%;
+    height: 20%;
+    }
+    .n1{
+    	margin-left:10px;
+    	margin-right:550px;
+    	margin-bottom:100px;
+    }
+    .t1{
+    	color:black;
+    	font-size:25px;
+    	margin-left:1000px;
+    	margin-top:-750px;
+
+    }
+    .bac{
+		background-color:black;
+		}
+		.a1{
+  		font-size:20px;
+
+
+  	}
+  	.a1:hover{
+  		background-color:white;
+  		color:yellow;
+  		font-size:23px;
+  	}
+    .dis{
+    	background-color:#eef2f3;
+    }
+    
+	.jumbotron{
+		width:50%;
+		font-size:20px;
+	}
+	.img1{
+		width:40%;
+		height:50%;
+		margin-left:850px;
+		margin-top:-750px;
+	}
+	.j1{
+		margin-left:10px;
+
+	}
+body{
+font-family:'verdana',sans-serif;
+}
+
+	.j2{
+		margin-left:10px;
+		margin-top:0px;
+background-image:url(https://images.pexels.com/photos/1546901/pexels-photo-1546901.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+color:white;
+	}
+.j3{
+width:100%;
+}
+	
